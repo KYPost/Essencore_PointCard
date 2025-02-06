@@ -10,4 +10,4 @@ QR Code
 集章03：網域?collection=q03  
 集章04：網域?collection=q04  
 
-兌換：網域/CookieUpdate??prize=prize
+兌換：網域?prize=prize
